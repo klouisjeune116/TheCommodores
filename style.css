@@ -1,0 +1,65 @@
+@import url(layout.css);
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+
+nav {
+  color: black;
+  width: 100px;
+  height: 125px;
+}
+
+body {
+  background-color: bisque;
+}
+
+figcaption {
+  font-weight: 800;
+}
+
+ol {
+  font-weight: 800;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  font-weight: 800;
+  color: black;
+}
+dd {
+  font-style: italic;
+}
+
+dt {
+  font-weight: 600;
+}
+
+table {
+  color: darkred;
+}
+
+div {
+  color: red;
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: green;
+}
+
+/* selected link */
+a:active {
+  color: purple;
+}
